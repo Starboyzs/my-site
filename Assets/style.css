@@ -1,0 +1,120 @@
+#header{
+	background-color: #EAF6F6;
+	padding : 10px 10px 20px 10px;
+	text-align: center;
+}
+#body{
+	padding : 20px 10px 20px 10px;
+	background-color: #F5F2E7;
+
+}
+#footer{
+background-color: #66BFBF;
+padding: 1% 10% 1% 10%;
+}
+
+
+.backend{
+		width: 30%;
+		float:right;
+		margin-left:30px
+}
+.bottom_cloud{
+	position: absolute;
+	left: 100px;
+
+}
+.btn {
+  background: #aa34d9;
+  background-image: -webkit-linear-gradient(top, #aa34d9, #2b8bb8);
+  background-image: -moz-linear-gradient(top, #aa34d9, #2b8bb8);
+  background-image: -ms-linear-gradient(top, #aa34d9, #2b8bb8);
+  background-image: -o-linear-gradient(top, #aa34d9, #2b8bb8);
+  background-image: linear-gradient(to bottom, #aa34d9, #2b8bb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #4d134d;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc3cef;
+  background-image: -webkit-linear-gradient(top, #fc3cef, #d934c0);
+  background-image: -moz-linear-gradient(top, #fc3cef, #d934c0);
+  background-image: -ms-linear-gradient(top, #fc3cef, #d934c0);
+  background-image: -o-linear-gradient(top, #fc3cef, #d934c0);
+  background-image: linear-gradient(to bottom, #fc3cef, #d934c0);
+  text-decoration: none;
+}
+.commit{
+	margin-top: 100px
+}
+.footer_link{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.frontend{
+	width: 30%;
+	float:left;
+		margin-right:30px;
+}
+.hello{
+color:#66BFBF;
+
+}
+.introduction{
+}
+.my_picture{
+	border-radius: 500px;
+
+}
+.social_media{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+.skill_row{
+	width: 50%;
+	margin:100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.story{
+}
+.top_cloud{
+	position: absolute;
+	right: 100px;
+}
+
+body{
+text-align: center;
+font-family: arial;
+color: #40514E;
+font-weight: bold;
+}
+h1{
+	font-size: 6rem;
+	font-family:Sacramento;
+	color:#66BFBF;
+}
+h2{
+	font-size: 2.5rem;
+	font-family:Merriweather;
+	color:#66BFBF;
+}
+h3{
+	color:#11999E;
+	font-weight: bold;
+}
+hr{
+	width: 35%;
+	border: dotted;
+	border-bottom: none;
+}
